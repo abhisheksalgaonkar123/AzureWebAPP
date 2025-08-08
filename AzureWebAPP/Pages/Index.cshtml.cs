@@ -15,7 +15,7 @@ namespace AzureWebAPP.Pages
 
         public void OnGet()
         {
-            ViewData["Greeting"] = _configuration["Greeting"];
+           
         }
     }
 }
