@@ -7,6 +7,7 @@
       "applicationUrl": "http://localhost:62978",
       "sslPort": 44343
     }
+    
   },
   "profiles": {
     "http": {
